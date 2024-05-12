@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2608969">
+<rect id="Rectangle 696" width="40" height="40" rx="8" fill="#333333"/>
+<g id="add_photo_alternate">
+<mask id="mask0_2537_18036" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="7" width="24" height="25">
+<rect id="Bounding box" x="8" y="7.84961" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2537_18036)">
+<path id="add_photo_alternate_2" d="M13 28.8496C12.45 28.8496 11.9792 28.6538 11.5875 28.2621C11.1958 27.8704 11 27.3996 11 26.8496V12.8496C11 12.2996 11.1958 11.8288 11.5875 11.4371C11.9792 11.0454 12.45 10.8496 13 10.8496H22V12.8496H13V26.8496H27V17.8496H29V26.8496C29 27.3996 28.8042 27.8704 28.4125 28.2621C28.0208 28.6538 27.55 28.8496 27 28.8496H13ZM25 16.8496V14.8496H23V12.8496H25V10.8496H27V12.8496H29V14.8496H27V16.8496H25ZM14 24.8496H26L22.25 19.8496L19.25 23.8496L17 20.8496L14 24.8496Z" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
